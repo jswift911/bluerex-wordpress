@@ -1,1 +1,2 @@
-# bluerex-wordpress
+# Bluerex-wordpress
+Тема Bluerex под CMS WordPress
